@@ -14,6 +14,6 @@ Visit my _portfolio to see a showcase of my resume and projects.
 - R, Python, SQL, Jupyter, Matlab, NumPy, SAS
 
 ## Connect With Me
-- Linkedin https://www.linkedin.com/in/armando-uribe-636882303/
+- [LinkedIn](https://www.linkedin.com/in/armando-uribe-636882303/)
 - _Handshake
 - _Upwork
