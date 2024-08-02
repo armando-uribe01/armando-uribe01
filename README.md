@@ -1,6 +1,6 @@
 # Hello, I'm Armando!
 
-I am a data scientist with a B.S. in Statistics and Data Science from The University of California Santa Barbara.
+I am a data scientist with a B.S. in Statistics and Data Science from The University of California, Santa Barbara.
 
 I'm passionate about analyzing and predicting product analytics and user experiences. My work usually involves A/B (hypothesis) testing, predictive analytics, machine learning, time series analysis, reporting and insights, and creating new metrics. 
 I primarily use tools like Python, R, SQL, Tableau, and Adobe Analytics.
