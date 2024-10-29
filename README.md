@@ -8,7 +8,7 @@ I primarily use tools like Python, R, SQL, Tableau, and Adobe Analytics.
 I previously served as the Director of Operations for a nationwide e-commerce & retail chain in the liquor industry.
 
 ## Portfolio
-Visit my _portfolio to see a showcase of my resume and projects.
+Visit my [portfolio](https://capybera-clarinet-z46d.squarespace.com) to see a showcase of my resume and projects.
 
 ## Tools
 - R, Python, SQL, Jupyter, Matlab, NumPy, SAS
