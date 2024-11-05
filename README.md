@@ -15,5 +15,3 @@ Visit my [portfolio](https://capybera-clarinet-z46d.squarespace.com) to see a sh
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/armando-uribe-636882303/)
-- _Handshake
-- _Upwork
